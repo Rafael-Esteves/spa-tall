@@ -5,5 +5,5 @@ Arquivos do docker estão no repositório.
 
 Após a instalação, rodar:
 
-php artisan migrate --seed
-npm run dev
+<code>php artisan migrate --seed</code>
+<code>npm run dev</code>

@@ -4,7 +4,7 @@
         <div class="flex items-center justify-around bg-gradient-to-tr from-blue-800 to-purple-700 i">
             <div class="w-1/2">
                 <h1 class="font-sans text-4xl font-bold text-white">Seja bem vindo</h1>
-                <p class="mt-1 text-white">Este projeto foi desenvolvido utilizando a stack TALL (Tailwind, AlpineJS, Laravel & Livewire) para o processo seletivo da Holder+</p>    
+                <p class="mt-1 text-white">Eu, Rafael Esteves, desenvolvi essa demo utilizando a stack TALL (Tailwind, AlpineJS, Laravel & Livewire)</p>    
             </div>
         </div>
         <div>

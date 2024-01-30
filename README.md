@@ -1,9 +1,6 @@
-<h1>SPA usando a stack TALL</h1>
+<h1>SPA built using the TALL stack</h1>
 
-O ambiente de desenvolvimento foi instanciado no docker.
-Arquivos do docker estão no repositório.
-
-Após a instalação, rodar:
+To run it:
 
 <code>php artisan migrate --seed</code>
 <code>npm run dev</code>
